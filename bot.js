@@ -72,9 +72,6 @@ bot.on('message', message => {
     if(message.content.includes('sixty-nine')) {
         message.channel.sendMessage('Nice');
     }
-    if(message.mentions.users('69Bot')) {
-        message.channel.sendMessage('Ay, das me');   
-    }
 });
 
 bot.login(process.env.BOT_TOKEN);
