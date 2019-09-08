@@ -66,12 +66,6 @@ bot.on('message', message => {
     if(message.content.includes('sixnine')) {
         message.channel.sendMessage('Nice');
     }
-    if(message.content.includes('watch this')) {
-        message.channel.sendMessage('┬┴┬┴┤(･_├┬┴┬┴');
-    }
-    if(message.content.includes('Watch this')) {
-        message.channel.sendMessage('┬┴┬┴┤(･_├┬┴┬┴');
-    }
     if(message.content.includes('watch')) {
         message.channel.sendMessage('┬┴┬┴┤(･_├┬┴┬┴');
     }
