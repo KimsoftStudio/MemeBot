@@ -1,4 +1,4 @@
-const Discord = require('discord.js');
+iconst Discord = require('discord.js');
 const bot = new Discord.Client();
 
 bot.on('ready', () =>{
@@ -72,7 +72,7 @@ bot.on('message', message => {
     if(message.content.includes('Watch')) {
         message.channel.sendMessage('┬┴┬┴┤(･_├┬┴┬┴');
     }
-    if(message.isMentioned('69Bot')) {
+    if(message.mention.users('69Bot')) {
         message.channel.sendMessage('Ay, das me');
     }
     
