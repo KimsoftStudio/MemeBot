@@ -39,7 +39,7 @@ bot.on('message', message => {
     if(message.content.includes('Hotel')) {
         message.channel.sendMessage('Trivago');
     }
-    if(message.content.includes('ceeper')) {
+    if(message.content.includes('creeper')) {
         message.channel.sendMessage('AWW MAN');
     }
     if(message.content.includes('Creeper')) {
