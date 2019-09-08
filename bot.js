@@ -36,6 +36,9 @@ bot.on('message', message => {
     if(message.content.includes('Hotel')) {
         message.channel.sendMessage('Trivago');
     }
+    if(message.content.includes('hotel')) {
+        message.channel.sendMessage('Trivago');
+    }
     if(message.content.includes('Creeper')) {
         message.channel.sendMessage('AWW MAN');
     }
