@@ -1,56 +1,54 @@
 const Discord = require('discord.js');
 const bot = new Discord.Client();
 
-const token = BOT_TOKEN;
-
 bot.on('ready', () =>{
     console.log('This bot is online!');
-})
+});
 
-bot.on('message', msg => {
-    if(msg.content.includes('69')) {
-        msg.channel.sendMessage('Nice');
+bot.on('message', message => {
+    if(message.content.includes('69')) {
+        message.channel.sendMessage('Nice');
     }
-    if(msg.content.includes('kinky')) {
-        msg.channel.sendMessage('( ͡° ͜ʖ ͡°)');
+    if(message.content.includes('kinky')) {
+        message.channel.sendMessage('( ͡° ͜ʖ ͡°)');
     }
-    if(msg.content.includes('Kinky')) {
-        msg.channel.sendMessage('( ͡° ͜ʖ ͡°)');
+    if(message.content.includes('Kinky')) {
+        message.channel.sendMessage('( ͡° ͜ʖ ͡°)');
     }
-    if(msg.content.includes('uwu')) {
-        msg.channel.sendMessage('Degenerate');
+    if(message.content.includes('uwu')) {
+        message.channel.sendMessage('Degenerate');
     }
-    if(msg.content.includes('owo')) {
-        msg.channel.sendMessage('Degenerate');
+    if(message.content.includes('owo')) {
+        message.channel.sendMessage('Degenerate');
     }
-    if(msg.content.includes('OWO')) {
-        msg.channel.sendMessage('Degenerate');
+    if(message.content.includes('OWO')) {
+        message.channel.sendMessage('Degenerate');
     }
-    if(msg.content.includes('UWU')) {
-        msg.channel.sendMessage('Degenerate');
+    if(message.content.includes('UWU')) {
+        message.channel.sendMessage('Degenerate');
     }
-    if(msg.content.includes('OwO')) {
-        msg.channel.sendMessage('Degenerate');
+    if(message.content.includes('OwO')) {
+        message.channel.sendMessage('Degenerate');
     }
-    if(msg.content.includes('UwU')) {
-        msg.channel.sendMessage('Degenerate');
+    if(message.content.includes('UwU')) {
+        message.channel.sendMessage('Degenerate');
     }
-    if(msg.content.includes('Hotel?')) {
-        msg.channel.sendMessage('Trivago');
+    if(message.content.includes('Hotel?')) {
+        message.channel.sendMessage('Trivago');
     }
-    if(msg.content.includes('Hotel')) {
-        msg.channel.sendMessage('Trivago');
+    if(message.content.includes('Hotel')) {
+        message.channel.sendMessage('Trivago');
     }
-    if(msg.content.includes('Creeper')) {
-        msg.channel.sendMessage('AWW MAN');
+    if(message.content.includes('Creeper')) {
+        message.channel.sendMessage('AWW MAN');
     }
-    if(msg.content.includes('creeper')) {
-        msg.channel.sendMessage('AWW MAN');
+    if(message.content.includes('creeper')) {
+        message.channel.sendMessage('AWW MAN');
     }
-    if(msg.content.includes('420')) {
-        msg.channel.sendMessage('Blaze It');
+    if(message.content.includes('420')) {
+        message.channel.sendMessage('Blaze It');
     }
     
-})
+});
 
 client.login(process.env.BOT_TOKEN);
