@@ -1,0 +1,14 @@
+{
+    "name": "69Bot",
+    "version": "1.0.0",
+    "description": "Nice",
+    "main": "index.js",
+    "scripts": {
+        "start": "node bot.js"
+    },
+    "author": "Spoods",
+    "license": "ISC",
+    "dependencies": {
+        "discord.js": "^11.5.1"
+    }
+}
