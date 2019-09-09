@@ -30,6 +30,12 @@ bot.on('message', message => {
     if(message.content.includes('kinky')) {
         message.channel.sendMessage('( ͡° ͜ʖ ͡°)');
     }
+    if(message.content.includes('sexy')) {
+        message.channel.sendMessage('( ͡° ͜ʖ ͡°)');
+    }
+    if(message.content.includes('Sexy')) {
+        message.channel.sendMessage('( ͡° ͜ʖ ͡°)');
+    }
     if(message.content.includes('Kinky')) {
         message.channel.sendMessage('( ͡° ͜ʖ ͡°)');
     }
