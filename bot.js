@@ -100,7 +100,7 @@ bot.on('message', message => {
         message.channel.sendMessage('F');
     }
     if(message.content.includes("( ͡° ͜ʖ ͡°)")) {
-        message.channel.sendMessage(':deli:');
+        message.channel.sendMessage(':Deli:');
     }
 });
 
