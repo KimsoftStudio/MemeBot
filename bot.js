@@ -100,7 +100,7 @@ bot.on('message', message => {
         message.channel.sendMessage('F');
     }
     if(message.content.includes("( ͡° ͜ʖ ͡°)")) {
-        message.channel.sendMessage('', {files: ["https://bit.ly/2lZyk2T"]}');
+        message.channel.sendMessage('', {files: ["https://raw.githubusercontent.com/KimsoftStudio/MemeBot/master/deli.png"]}');
     }
 });
 
