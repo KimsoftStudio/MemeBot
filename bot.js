@@ -96,6 +96,9 @@ bot.on('message', message => {
     if(message.content.includes('sixty-nine')) {
         message.channel.sendMessage('Nice');
     }
+    if(message.content.includes("you're dead")) {
+        message.channel.sendMessage('F');
+    }
 });
 
 bot.login(process.env.BOT_TOKEN);
