@@ -99,6 +99,9 @@ bot.on('message', message => {
     if(message.content.includes("you're dead")) {
         message.channel.sendMessage('F');
     }
+    if(message.content.includes("( ͡° ͜ʖ ͡°)")) {
+        message.channel.sendMessage(':deli:');
+    }
 });
 
 bot.login(process.env.BOT_TOKEN);
