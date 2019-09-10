@@ -102,9 +102,6 @@ bot.on('message', message => {
     if(message.content.includes("( ͡° ͜ʖ ͡°)")) {
         message.channel.sendMessage('Deli', {files: ["https://raw.githubusercontent.com/KimsoftStudio/MemeBot/master/deli.png"]});
     }
-    if(message.content.includes("komidance")) {
-        message.channel.sendMessage('Deli', {files: ["https://github.com/KimsoftStudio/MemeBot/blob/master/Komi_san_dancing.mp4"]});
-    }
 });
 
 bot.login(process.env.BOT_TOKEN);
