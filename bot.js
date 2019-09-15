@@ -105,9 +105,6 @@ bot.on('message', message => {
     if(message.content.includes("what a jpeg is")) {
         message.channel.sendMessage('I Just want of picture of a gotdang hotdog', {files: ["https://raw.githubusercontent.com/KimsoftStudio/MemeBot/master/jpeg.gif"]});
     }
-    if(message.content.includes("komidance")) {
-        message.channel.sendMessage('OK', {files: ["https://raw.githubusercontent.com/KimsoftStudio/MemeBot/master/Komi_san_dancing.mp4"]});
-    }
 });
 
 bot.login(process.env.BOT_TOKEN);
