@@ -108,6 +108,15 @@ bot.on('message', message => {
     if(message.content.includes("69bot buy a new one")) {
         message.channel.sendMessage('!', {files: ["https://raw.githubusercontent.com/KimsoftStudio/MemeBot/master/discordIcon.png"]});
     }
+    if(message.content.includes("69 bot buy a new one")) {
+        message.channel.sendMessage('!', {files: ["https://raw.githubusercontent.com/KimsoftStudio/MemeBot/master/discordIcon.png"]});
+    }
+    if(message.content.includes("69 Bot buy a new one")) {
+        message.channel.sendMessage('!', {files: ["https://raw.githubusercontent.com/KimsoftStudio/MemeBot/master/discordIcon.png"]});
+    }
+    if(message.content.includes("69Bot buy a new one")) {
+        message.channel.sendMessage('!', {files: ["https://raw.githubusercontent.com/KimsoftStudio/MemeBot/master/discordIcon.png"]});
+    }
 });
 
 bot.login(process.env.BOT_TOKEN);
