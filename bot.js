@@ -105,6 +105,9 @@ bot.on('message', message => {
     if(message.content.includes("what a jpeg is")) {
         message.channel.sendMessage('I Just want of picture of a gotdang hotdog', {files: ["https://raw.githubusercontent.com/KimsoftStudio/MemeBot/master/jpeg.gif"]});
     }
+    if(message.content.includes("69bot buy a new one")) {
+        message.channel.sendMessage('!', {files: ["https://raw.githubusercontent.com/KimsoftStudio/MemeBot/master/discordIcon.png"]});
+    }
 });
 
 bot.login(process.env.BOT_TOKEN);
