@@ -118,10 +118,10 @@ bot.on('message', message => {
         message.channel.sendMessage('!', {files: ["https://raw.githubusercontent.com/KimsoftStudio/MemeBot/master/discordIcon.png"]});
     }
     if(message.content.includes("nani")) {
-        message.channel.sendMessage({files: ["https://raw.githubusercontent.com/KimsoftStudio/MemeBot/master/nani.jpg"]});
+        message.channel.sendMessage({files: ["https://raw.githubusercontent.com/KimsoftStudio/MemeBot/master/naniN.jpg"]});
     }
     if(message.content.includes("Nani")) {
-        message.channel.sendMessage({files: ["https://raw.githubusercontent.com/KimsoftStudio/MemeBot/master/nani.jpg"]});
+        message.channel.sendMessage({files: ["https://raw.githubusercontent.com/KimsoftStudio/MemeBot/master/naniN.jpg"]});
     }
 });
 
