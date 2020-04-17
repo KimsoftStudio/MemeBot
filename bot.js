@@ -120,6 +120,9 @@ bot.on('message', message => {
     if(message.content.includes("nani")) {
         message.channel.sendMessage({files: ["https://raw.githubusercontent.com/KimsoftStudio/MemeBot/master/Nani_P_Lilo_and_Stitch.jpg"]});
     }
+    if(message.content.includes("Nani")) {
+        message.channel.sendMessage({files: ["https://raw.githubusercontent.com/KimsoftStudio/MemeBot/master/Nani_P_Lilo_and_Stitch.jpg"]});
+    }
 });
 
 bot.login(process.env.BOT_TOKEN);
