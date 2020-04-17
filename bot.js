@@ -121,7 +121,7 @@ bot.on('message', message => {
         message.channel.sendMessage({files: ["https://raw.githubusercontent.com/KimsoftStudio/MemeBot/master/nani.jpg"]});
     }
     if(message.content.includes("Nani")) {
-        message.channel.sendMessage({files: ["https://raw.githubusercontent.com/KimsoftStudio/MemeBot/master/nani.jpg"]});
+         message.channel.sendMessage(':nani:');
     }
 });
 
