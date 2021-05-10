@@ -1,10 +1,12 @@
 const Discord = require('discord.js');
 const bot = new Discord.Client();
 
+client.on('ready' () => {
+    client.user.setActivity("Beans" {type: "PLAYING"}) 
+})
+
 bot.on('ready', () =>{
     console.log('This bot is online!');
-    client.user.setActivity('Beans')
-    console.clear()
 });
 
 bot.on('message', message => {
