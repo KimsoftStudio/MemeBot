@@ -3,8 +3,8 @@ const bot = new Discord.Client();
 
 bot.on('ready', () =>{
     console.log('This bot is online!');
-    bot.user.setPresence("Beans" {type: "PLAYING"}) 
 });
+bot.user.setActivity(`this won't appear in the bot's custom status!`, {type: 4})
 
 bot.on('message', message => {
     if(message.content.includes('69')) {
