@@ -102,7 +102,13 @@ bot.on('message', message => {
     if(message.content.includes("( ͡° ͜ʖ ͡°)")) {
         message.channel.sendMessage('Deli', {files: ["https://raw.githubusercontent.com/KimsoftStudio/MemeBot/master/deli.png"]});
     }
-    if(message.content.includes("what a jpeg is")) {
+    if(message.content.includes("jpeg")) {
+        message.channel.sendMessage('I Just want of picture of a gotdang hotdog', {files: ["https://raw.githubusercontent.com/KimsoftStudio/MemeBot/master/jpeg.gif"]});
+    }
+    if(message.content.includes("jpg")) {
+        message.channel.sendMessage('I Just want of picture of a gotdang hotdog', {files: ["https://raw.githubusercontent.com/KimsoftStudio/MemeBot/master/jpeg.gif"]});
+    }
+    if(message.content.includes(".jpg")) {
         message.channel.sendMessage('I Just want of picture of a gotdang hotdog', {files: ["https://raw.githubusercontent.com/KimsoftStudio/MemeBot/master/jpeg.gif"]});
     }
     if(message.content.includes("69bot buy a new one")) {
