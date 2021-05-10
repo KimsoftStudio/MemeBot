@@ -6,9 +6,9 @@ bot.on('ready', () =>{
     bot.user.setStatus('available')
     bot.user.setPresence({
         game: {
-            name: 'with depression',
-            type: "STREAMING",
-            url: "https://www.twitch.tv/monstercat"
+            name: 'funny memes',
+            type: "WATCHING",
+            url: "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
         }
      });
 });
