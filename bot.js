@@ -149,6 +149,9 @@ bot.on('message', message => {
     if(message.content.includes("Flacid")) {
         message.channel.sendMessage({files: ["https://raw.githubusercontent.com/KimsoftStudio/MemeBot/master/Flacid_Snnake.png"]});
     }
+    if(message.content.includes("wah")) {
+        message.channel.sendMessage({files: ["https://cdn.discordapp.com/attachments/347254691966615552/748290292049772554/mario_wash.mp4"]});
+    }
 });
 
 bot.login(process.env.BOT_TOKEN);
