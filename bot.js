@@ -129,6 +129,18 @@ bot.on('message', message => {
     if(message.content.includes("Nani")) {
         message.channel.sendMessage({files: ["https://raw.githubusercontent.com/KimsoftStudio/MemeBot/master/naniN.jpg"]});
     }
+    if(message.content.includes("snake")) {
+        message.channel.sendMessage({files: ["https://raw.githubusercontent.com/KimsoftStudio/MemeBot/master/Flacid_Snnake.png"]});
+    }
+    if(message.content.includes("flacid")) {
+        message.channel.sendMessage({files: ["https://raw.githubusercontent.com/KimsoftStudio/MemeBot/master/Flacid_Snnake.png"]});
+    }
+    if(message.content.includes("Snake")) {
+        message.channel.sendMessage({files: ["https://raw.githubusercontent.com/KimsoftStudio/MemeBot/master/Flacid_Snnake.png"]});
+    }
+    if(message.content.includes("Flacid")) {
+        message.channel.sendMessage({files: ["https://raw.githubusercontent.com/KimsoftStudio/MemeBot/master/Flacid_Snnake.png"]});
+    }
 });
 
 bot.login(process.env.BOT_TOKEN);
