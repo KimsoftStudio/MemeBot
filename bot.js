@@ -1,12 +1,16 @@
 const Discord = require('discord.js');
 const bot = new Discord.Client();
-const dl = require("discord.lib")
-dl.client.on("ready", () => {
- dl.client.user.setActivity('Beans')
-})
 
 bot.on('ready', () =>{
     console.log('This bot is online!');
+    bot.user.setStatus('available')
+    bot.user.setPresence({
+        game: {
+            name: 'with depression',
+            type: "STREAMING",
+            url: "https://www.twitch.tv/monstercat"
+        }
+     });
 });
 
 bot.on('message', message => {
