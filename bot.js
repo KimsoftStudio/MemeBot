@@ -1,9 +1,12 @@
 const Discord = require('discord.js');
 const bot = new Discord.Client();
+const dl = require("discord.lib")
+dl.client.on("ready", () => {
+ dl.client.user.setActivity('Beans')
+})
 
 bot.on('ready', () =>{
     console.log('This bot is online!');
-    bot.user.setActivity(`this won't appear in the bot's custom status!`, {type: 4})
 });
 
 bot.on('message', message => {
