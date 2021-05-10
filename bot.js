@@ -164,6 +164,19 @@ bot.on('message', message => {
     if(message.content.includes("It's Monday")) {
         message.channel.sendMessage({files: ["https://cdn.discordapp.com/attachments/738573605268619295/841193029154111488/video0-8.mp4"]});
     }
+    
+    if(message.content.includes("its monday")) {
+        message.channel.sendMessage({files: ["https://cdn.discordapp.com/attachments/738573605268619295/841193029154111488/video0-8.mp4"]});
+    }
+    if(message.content.includes("its Monday")) {
+        message.channel.sendMessage({files: ["https://cdn.discordapp.com/attachments/738573605268619295/841193029154111488/video0-8.mp4"]});
+    }
+    if(message.content.includes("Its monday")) {
+        message.channel.sendMessage({files: ["https://cdn.discordapp.com/attachments/738573605268619295/841193029154111488/video0-8.mp4"]});
+    }
+    if(message.content.includes("Its Monday")) {
+        message.channel.sendMessage({files: ["https://cdn.discordapp.com/attachments/738573605268619295/841193029154111488/video0-8.mp4"]});
+    }
 });
 
 bot.login(process.env.BOT_TOKEN);
