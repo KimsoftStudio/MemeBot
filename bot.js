@@ -6,9 +6,9 @@ bot.on('ready', () =>{
     bot.user.setStatus('available')
     bot.user.setPresence({
         game: {
-            name: '?',
-            type: "STREAMING",
-            url: "https://www.youtube.com/watch?v=YwmqgG5ABH4"
+            name: 'CyberShrek 2077',
+            type: "PLAYING",
+            url: ""
         }
      });
 });
