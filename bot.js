@@ -7,8 +7,7 @@ bot.on('ready', () =>{
     bot.user.setPresence({
         game: {
             name: 'CyberShrek 2077',
-            type: "PLAYING",
-            url: ""
+            type: "PLAYING"
         }
      });
 });
