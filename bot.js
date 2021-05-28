@@ -6,8 +6,8 @@ bot.on('ready', () =>{
     bot.user.setStatus('available')
     bot.user.setPresence({
         game: {
-            name: 'Sonic Colors™',
-            type: "PLAYING"
+            name: 'https://www.youtube.com/watch?v=fC7oUOUEEi4',
+            type: "STREAMING"
         }
      });
 });
