@@ -6,7 +6,7 @@ bot.on('ready', () =>{
     bot.user.setStatus('available')
     bot.user.setPresence({
         game: {
-            name: 'CyberShrek 2077',
+            name: 'Sonic Colors™',
             type: "PLAYING"
         }
      });
