@@ -81,22 +81,22 @@ bot.on('message', message => {
         message.channel.sendMessage('Nice');
     }
     if(message.content.includes('egg')) {
-        message.channel.sendMessage('I see you are a man of culture as well.');
+        message.channel.sendMessage('I see you are cultured.');
     }
     if(message.content.includes('Egg')) {
-        message.channel.sendMessage('I see you are a man of culture as well.');
+        message.channel.sendMessage('I see you are cultured.');
     }
     if(message.content.includes('EgG')) {
-        message.channel.sendMessage('I see you are a man of culture as well.');
+        message.channel.sendMessage('I see you are cultured.');
     }
     if(message.content.includes('eGg')) {
-        message.channel.sendMessage('I see you are a man of culture as well.');
+        message.channel.sendMessage('I see you are cultured.');
     }
     if(message.content.includes('egG')) {
-        message.channel.sendMessage('I see you are a man of culture as well.');
+        message.channel.sendMessage('I see you are cultured.');
     }
     if(message.content.includes('EGG')) {
-        message.channel.sendMessage('I see you are a man of culture as well.');
+        message.channel.sendMessage('I see you are cultured.');
     }
     if(message.content.includes('sixtynine')) {
         message.channel.sendMessage('Nice');
