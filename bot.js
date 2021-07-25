@@ -18,7 +18,7 @@ bot.on('message', message => {
         message.channel.sendMessage('Nice');
     }
     if(message.content.includes('uwu')) {
-        message.channel.sendMessage('You degenerate');
+        message.channel.sendMessage('You degenerate.');
     }
     if(message.content.includes('owo')) {
         message.channel.sendMessage('You degenerate');
