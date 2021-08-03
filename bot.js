@@ -183,6 +183,12 @@ bot.on('message', message => {
     if(message.content.includes("Its Monday")) {
         message.channel.sendMessage({files: ["https://cdn.discordapp.com/attachments/738573605268619295/841193029154111488/video0-8.mp4"]});
     }
+    if(message.content.includes("Ballin")) {
+        message.channel.sendMessage('https://youtu.be/jSJ-ND6A5Yc');
+    }
+    if(message.content.includes("ballin")) {
+        message.channel.sendMessage('https://youtu.be/jSJ-ND6A5Yc');
+    }
 });
 
 bot.login(process.env.BOT_TOKEN);
