@@ -189,6 +189,18 @@ bot.on('message', message => {
     if(message.content.includes("ballin")) {
         message.channel.sendMessage('https://youtu.be/jSJ-ND6A5Yc');
     }
+    if(message.content.includes("All Aboard")) {
+        message.channel.sendMessage('https://youtu.be/YZFrAdtqQk8');
+    }
+    if(message.content.includes("all aboard")) {
+        message.channel.sendMessage('https://youtu.be/YZFrAdtqQk8');
+    }
+    if(message.content.includes("all Aboard")) {
+        message.channel.sendMessage('https://youtu.be/YZFrAdtqQk8');
+    }
+    if(message.content.includes("All aboard")) {
+        message.channel.sendMessage('https://youtu.be/YZFrAdtqQk8');
+    }
 });
 
 bot.login(process.env.BOT_TOKEN);
