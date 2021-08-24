@@ -201,6 +201,9 @@ bot.on('message', message => {
     if(message.content.includes("All aboard")) {
         message.channel.sendMessage('https://youtu.be/YZFrAdtqQk8');
     }
+    if(message.content.includes("tonk")) {
+        message.channel.sendMessage('Hello @Malevolent_Q');
+    }
 });
 
 bot.login(process.env.BOT_TOKEN);
