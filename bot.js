@@ -202,7 +202,7 @@ bot.on('message', message => {
         message.channel.sendMessage('https://youtu.be/YZFrAdtqQk8');
     }
     if(message.content.includes("tonk")) {
-        message.channel.sendMessage('Hello @Malevolent_Q');
+        message.channel.sendMessage('Hello @Malevolent_Q https://cdn.discordapp.com/attachments/546445967642198078/879627312990138378/thumb_tonk-62094627.png');
     }
 });
 
