@@ -204,6 +204,12 @@ bot.on('message', message => {
     if(message.content.includes("tonk")) {
         message.channel.sendMessage('Hello @Malevolent_Q https://cdn.discordapp.com/attachments/546445967642198078/879627312990138378/thumb_tonk-62094627.png');
     }
+    if(message.content.includes("milk")) {
+        message.channel.sendMessage('https://cdn.discordapp.com/attachments/594373333412347915/681051535039266846/cool_but_dairy_and_THICC.png');
+    }
+    if(message.content.includes("Milk")) {
+        message.channel.sendMessage('https://cdn.discordapp.com/attachments/594373333412347915/681051535039266846/cool_but_dairy_and_THICC.png');
+    }
 });
 
 bot.login(process.env.BOT_TOKEN);
