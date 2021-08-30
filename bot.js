@@ -181,10 +181,10 @@ bot.on('message', message => {
         message.channel.sendMessage({files: ["https://cdn.discordapp.com/attachments/738573605268619295/841193029154111488/video0-8.mp4"]});
     }
     if(message.content.includes("Ballin")) {
-        message.channel.sendMessage('https://youtu.be/jSJ-ND6A5Yc');
+        message.channel.sendMessage('https://cdn.discordapp.com/attachments/618993874399920144/867220152990171156/mario.mp4');
     }
     if(message.content.includes("ballin")) {
-        message.channel.sendMessage('https://youtu.be/jSJ-ND6A5Yc');
+        message.channel.sendMessage('https://cdn.discordapp.com/attachments/618993874399920144/867220152990171156/mario.mp4');
     }
     if(message.content.includes("All Aboard")) {
         message.channel.sendMessage('https://youtu.be/YZFrAdtqQk8');
@@ -203,6 +203,12 @@ bot.on('message', message => {
     }
     if(message.content.includes("Milk")) {
         message.channel.sendMessage('https://cdn.discordapp.com/attachments/594373333412347915/681051535039266846/cool_but_dairy_and_THICC.png');
+    }
+    if (message.content.includes("Noodle")) {
+        message.channel.sendMessage('https://cdn.discordapp.com/attachments/594373333412347915/623775240375500800/just_buy_a_new_one.mp4');
+    }
+    if (message.content.includes("noodle")) {
+        message.channel.sendMessage('https://cdn.discordapp.com/attachments/594373333412347915/623775240375500800/just_buy_a_new_one.mp4');
     }
 });
 
