@@ -113,9 +113,6 @@ bot.on('message', message => {
     if(message.content.includes("jpeg")) {
         message.channel.sendMessage('A beginning to an end...');
     }
-    if(message.content.includes(".jpg")) {
-        message.channel.sendMessage('A beginning to an end...');
-    }
     if(message.content.includes("Jpeg")) {
         message.channel.sendMessage('A beginning to an end...');
     }
