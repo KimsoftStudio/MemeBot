@@ -8,119 +8,119 @@ bot.on('ready', () =>{
         game: {
             name: 'funny memes',
             type: "STREAMING",
-            url: 'https://www.youtube.com/watch?v=fC7oUOUEEi4'
+            url: 'https://www.youtube.com/watch?v=M75VLQuFPrY'
         }
      });
 });
 
 bot.on('message', message => {
     if(message.content.includes('69')) {
-        message.channel.sendMessage('Nice');
+        message.channel.sendMessage('dnlEdnB3cFJQTTQ=');
     }
     if(message.content.includes('uwu')) {
-        message.channel.sendMessage('You degenerate.');
+        message.channel.sendMessage('qWXnt2Z2D1E');
     }
     if(message.content.includes('owo')) {
-        message.channel.sendMessage('You degenerate');
+        message.channel.sendMessage('qWXnt2Z2D1E');
     }
     if(message.content.includes('UwU')) {
-        message.channel.sendMessage('You degenerate');
+        message.channel.sendMessage('qWXnt2Z2D1E');
     }
     if(message.content.includes('OwO')) {
-        message.channel.sendMessage('You degenerate');
+        message.channel.sendMessage('qWXnt2Z2D1E');
     }
     if(message.content.includes('UWU')) {
-        message.channel.sendMessage('You degenerate');
+        message.channel.sendMessage('qWXnt2Z2D1E');
     }
     if(message.content.includes('OWO')) {
-        message.channel.sendMessage('You degenerate');
+        message.channel.sendMessage('qWXnt2Z2D1E');
     }
     if(message.content.includes('kinky')) {
-        message.channel.sendMessage('( ͡° ͜ʖ ͡°)');
+        message.channel.sendMessage('The clock is ticking');
     }
     if(message.content.includes('sexy')) {
-        message.channel.sendMessage('( ͡° ͜ʖ ͡°)');
+        message.channel.sendMessage('The clock is ticking');
     }
     if(message.content.includes('Sexy')) {
-        message.channel.sendMessage('( ͡° ͜ʖ ͡°)');
+        message.channel.sendMessage('The clock is ticking');
     }
     if(message.content.includes('Kinky')) {
-        message.channel.sendMessage('( ͡° ͜ʖ ͡°)');
+        message.channel.sendMessage('The clock is ticking');
     }
     if(message.content.includes('hotel')) {
-        message.channel.sendMessage('Trivago');
+        message.channel.sendMessage('Do you see it?');
     }
     if(message.content.includes('Hotel')) {
-        message.channel.sendMessage('Trivago');
+        message.channel.sendMessage('Do you see it?');
     }
     if(message.content.includes('creeper')) {
-        message.channel.sendMessage('AWW MAN');
+        message.channel.sendMessage('Do you see it?');
     }
     if(message.content.includes('Creeper')) {
-        message.channel.sendMessage('AWW MAN');
+        message.channel.sendMessage('Do you see it?');
     }
     if(message.content.includes('6ix9ine')) {
-        message.channel.sendMessage('Oof. Wrong one bud.');
+        message.channel.sendMessage('https://www.youtube.com/watch?v=xADSDapqn9o');
     }
     if(message.content.includes('6ix 9ine')) {
-        message.channel.sendMessage('Oof. Wrong one bud.');
+        message.channel.sendMessage('https://www.youtube.com/watch?v=xADSDapqn9o');
     }
     if(message.content.includes('Watch')) {
-        message.channel.sendMessage('┬┴┬┴┤(･_├┬┴┬┴');
+        message.channel.sendMessage('http://media.oregonlive.com/pacific-northwest-news/photo/redditposterfotojpg-fbbe62a3c24a8394.jpg');
     }
     if(message.content.includes('watch')) {
-        message.channel.sendMessage('┬┴┬┴┤(･_├┬┴┬┴');
+        message.channel.sendMessage('http://media.oregonlive.com/pacific-northwest-news/photo/redditposterfotojpg-fbbe62a3c24a8394.jpg');
     }
     if(message.content.includes('six nine')) {
-        message.channel.sendMessage('Nice');
+        message.channel.sendMessage('https://www.youtube.com/watch?v=xADSDapqn9o');
     }
     if(message.content.includes('sixnine')) {
-        message.channel.sendMessage('Nice');
+        message.channel.sendMessage('https://www.youtube.com/watch?v=xADSDapqn9o');
     }
     if(message.content.includes('sixty nine')) {
-        message.channel.sendMessage('Nice');
+        message.channel.sendMessage('https://www.youtube.com/watch?v=xADSDapqn9o');
     }
     if(message.content.includes('egg')) {
-        message.channel.sendMessage('I see you are cultured as well.');
+        message.channel.sendMessage('https://mihaimaris.com/wp-content/uploads/2017/10/tura_de_noapte-1024x682.jpeg');
     }
     if(message.content.includes('Egg')) {
-        message.channel.sendMessage('I see you are cultured as well.');
+        message.channel.sendMessage('https://mihaimaris.com/wp-content/uploads/2017/10/tura_de_noapte-1024x682.jpeg');
     }
     if(message.content.includes('EgG')) {
-        message.channel.sendMessage('I see you are cultured as well.');
+        message.channel.sendMessage('https://mihaimaris.com/wp-content/uploads/2017/10/tura_de_noapte-1024x682.jpeg');
     }
     if(message.content.includes('eGg')) {
-        message.channel.sendMessage('I see you are cultured as well.');
+        message.channel.sendMessage('https://mihaimaris.com/wp-content/uploads/2017/10/tura_de_noapte-1024x682.jpeg');
     }
     if(message.content.includes('egG')) {
-        message.channel.sendMessage('I see you are cultured as well.');
+        message.channel.sendMessage('https://mihaimaris.com/wp-content/uploads/2017/10/tura_de_noapte-1024x682.jpeg');
     }
     if(message.content.includes('EGG')) {
-        message.channel.sendMessage('I see you are cultured as well.');
+        message.channel.sendMessage('https://mihaimaris.com/wp-content/uploads/2017/10/tura_de_noapte-1024x682.jpeg');
     }
     if(message.content.includes('sixtynine')) {
-        message.channel.sendMessage('Nice');
+        message.channel.sendMessage('https://www.youtube.com/watch?v=xADSDapqn9o');
     }
     if(message.content.includes('sixty-nine')) {
-        message.channel.sendMessage('Nice');
+        message.channel.sendMessage('https://www.youtube.com/watch?v=xADSDapqn9o');
     }
     if(message.content.includes("you're dead")) {
-        message.channel.sendMessage('F');
+        message.channel.sendMessage('lost.... cold....');
     }
     if(message.content.includes("( ͡° ͜ʖ ͡°)")) {
-        message.channel.sendMessage('Deli', {files: ["https://raw.githubusercontent.com/KimsoftStudio/MemeBot/master/deli.png"]});
+        message.channel.sendMessage('A beginning to an end...');
     }
     if(message.content.includes("jpeg")) {
-        message.channel.sendMessage('I Just want of picture of a gotdang hotdog', {files: ["https://raw.githubusercontent.com/KimsoftStudio/MemeBot/master/jpeg.gif"]});
+        message.channel.sendMessage('A beginning to an end...');
     }
     if(message.content.includes(".jpg")) {
-        message.channel.sendMessage('I Just want of picture of a gotdang hotdog', {files: ["https://raw.githubusercontent.com/KimsoftStudio/MemeBot/master/jpeg.gif"]});
+        message.channel.sendMessage('A beginning to an end...');
     }
     if(message.content.includes("Jpeg")) {
-        message.channel.sendMessage('I Just want of picture of a gotdang hotdog', {files: ["https://raw.githubusercontent.com/KimsoftStudio/MemeBot/master/jpeg.gif"]});
+        message.channel.sendMessage('A beginning to an end...');
     }
     if(message.content.includes("Jpg")) {
-        message.channel.sendMessage('I Just want of picture of a gotdang hotdog', {files: ["https://raw.githubusercontent.com/KimsoftStudio/MemeBot/master/jpeg.gif"]});
+        message.channel.sendMessage('A beginning to an end...');
     }
     if(message.content.includes("69bot buy a new one")) {
         message.channel.sendMessage('!', {files: ["https://raw.githubusercontent.com/KimsoftStudio/MemeBot/master/discordIcon.png"]});
@@ -135,56 +135,56 @@ bot.on('message', message => {
         message.channel.sendMessage('!', {files: ["https://raw.githubusercontent.com/KimsoftStudio/MemeBot/master/discordIcon.png"]});
     }
     if(message.content.includes("nani")) {
-        message.channel.sendMessage({files: ["https://raw.githubusercontent.com/KimsoftStudio/MemeBot/master/naniN.jpg"]});
+        message.channel.sendMessage('http://media.oregonlive.com/pacific-northwest-news/photo/redditposterfotojpg-fbbe62a3c24a8394.jpg');
     }
     if(message.content.includes("Nani")) {
-        message.channel.sendMessage({files: ["https://raw.githubusercontent.com/KimsoftStudio/MemeBot/master/naniN.jpg"]});
+        message.channel.sendMessage('http://media.oregonlive.com/pacific-northwest-news/photo/redditposterfotojpg-fbbe62a3c24a8394.jpg');
     }
     if(message.content.includes("snake")) {
-        message.channel.sendMessage({files: ["https://raw.githubusercontent.com/KimsoftStudio/MemeBot/master/Flacid_Snnake.png"]});
+        message.channel.sendMessage('https://www.visiteroda.com/');
     }
     if(message.content.includes("flacid")) {
-        message.channel.sendMessage({files: ["https://raw.githubusercontent.com/KimsoftStudio/MemeBot/master/Flacid_Snnake.png"]});
+        message.channel.sendMessage('https://www.visiteroda.com/');
     }
     if(message.content.includes("Snake")) {
-        message.channel.sendMessage({files: ["https://raw.githubusercontent.com/KimsoftStudio/MemeBot/master/Flacid_Snnake.png"]});
+        message.channel.sendMessage('https://www.visiteroda.com/');
     }
     if(message.content.includes("Flacid")) {
-        message.channel.sendMessage({files: ["https://raw.githubusercontent.com/KimsoftStudio/MemeBot/master/Flacid_Snnake.png"]});
+        message.channel.sendMessage('https://www.visiteroda.com/');
     }
     if(message.content.includes("wah")) {
-        message.channel.sendMessage({files: ["https://cdn.discordapp.com/attachments/347254691966615552/748290292049772554/mario_wash.mp4"]});
+        message.channel.sendMessage('lost.... cold....');
     }
     if(message.content.includes("it's monday")) {
-        message.channel.sendMessage({files: ["https://cdn.discordapp.com/attachments/738573605268619295/841193029154111488/video0-8.mp4"]});
+        message.channel.sendMessage('https://www.visiteroda.com/');
     }
     if(message.content.includes("it's Monday")) {
-        message.channel.sendMessage({files: ["https://cdn.discordapp.com/attachments/738573605268619295/841193029154111488/video0-8.mp4"]});
+        message.channel.sendMessage('https://www.visiteroda.com/');
     }
     if(message.content.includes("It's monday")) {
-        message.channel.sendMessage({files: ["https://cdn.discordapp.com/attachments/738573605268619295/841193029154111488/video0-8.mp4"]});
+        message.channel.sendMessage('https://www.visiteroda.com/');
     }
     if(message.content.includes("It's Monday")) {
-        message.channel.sendMessage({files: ["https://cdn.discordapp.com/attachments/738573605268619295/841193029154111488/video0-8.mp4"]});
+        message.channel.sendMessage('https://www.visiteroda.com/');
     }
     
     if(message.content.includes("its monday")) {
-        message.channel.sendMessage({files: ["https://cdn.discordapp.com/attachments/738573605268619295/841193029154111488/video0-8.mp4"]});
+        message.channel.sendMessage('https://www.visiteroda.com/');
     }
     if(message.content.includes("its Monday")) {
-        message.channel.sendMessage({files: ["https://cdn.discordapp.com/attachments/738573605268619295/841193029154111488/video0-8.mp4"]});
+        message.channel.sendMessage('https://www.visiteroda.com/');
     }
     if(message.content.includes("Its monday")) {
-        message.channel.sendMessage({files: ["https://cdn.discordapp.com/attachments/738573605268619295/841193029154111488/video0-8.mp4"]});
+        message.channel.sendMessage('https://www.visiteroda.com/');
     }
     if(message.content.includes("Its Monday")) {
-        message.channel.sendMessage({files: ["https://cdn.discordapp.com/attachments/738573605268619295/841193029154111488/video0-8.mp4"]});
+        message.channel.sendMessage('https://www.visiteroda.com/');
     }
     if(message.content.includes("Ballin")) {
-        message.channel.sendMessage('https://cdn.discordapp.com/attachments/618993874399920144/867220152990171156/mario.mp4');
+        message.channel.sendMessage('https://www.visiteroda.com/');
     }
     if(message.content.includes("ballin")) {
-        message.channel.sendMessage('https://cdn.discordapp.com/attachments/618993874399920144/867220152990171156/mario.mp4');
+        message.channel.sendMessage('https://www.visiteroda.com/');
     }
     if(message.content.includes("All Aboard")) {
         message.channel.sendMessage('https://youtu.be/YZFrAdtqQk8');
@@ -199,16 +199,16 @@ bot.on('message', message => {
         message.channel.sendMessage('https://youtu.be/YZFrAdtqQk8');
     }
     if(message.content.includes("milk")) {
-        message.channel.sendMessage('https://cdn.discordapp.com/attachments/594373333412347915/681051535039266846/cool_but_dairy_and_THICC.png');
+        message.channel.sendMessage('RmluZGluZyB0aGUgdHJ1dGg=');
     }
     if(message.content.includes("Milk")) {
-        message.channel.sendMessage('https://cdn.discordapp.com/attachments/594373333412347915/681051535039266846/cool_but_dairy_and_THICC.png');
+        message.channel.sendMessage('RmluZGluZyB0aGUgdHJ1dGg=');
     }
     if (message.content.includes("Noodle")) {
-        message.channel.sendMessage('https://cdn.discordapp.com/attachments/594373333412347915/623775240375500800/just_buy_a_new_one.mp4');
+        message.channel.sendMessage('https://vignette.wikia.nocookie.net/creepypasta/images/d/d2/Thisman.jpg/revision/latest?cb=20131118111953');
     }
     if (message.content.includes("noodle")) {
-        message.channel.sendMessage('https://cdn.discordapp.com/attachments/594373333412347915/623775240375500800/just_buy_a_new_one.mp4');
+        message.channel.sendMessage('https://vignette.wikia.nocookie.net/creepypasta/images/d/d2/Thisman.jpg/revision/latest?cb=20131118111953');
     }
 });
 
