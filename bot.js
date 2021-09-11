@@ -207,6 +207,9 @@ bot.on('message', message => {
     if (message.content.includes("noodle")) {
         message.channel.sendMessage('https://vignette.wikia.nocookie.net/creepypasta/images/d/d2/Thisman.jpg/revision/latest?cb=20131118111953');
     }
+    if (message.content.includes("plshelp")) {
+        message.channel.sendMessage({files: ["https://raw.githubusercontent.com/KimsoftStudio/MemeBot/master/commands.png"]});
+    }
 });
 
 bot.login(process.env.BOT_TOKEN);
