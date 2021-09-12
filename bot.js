@@ -6,8 +6,8 @@ bot.on('ready', () =>{
     bot.user.setStatus('available')
     bot.user.setPresence({
         game: {
-            name: 'funny memes',
-            type: "STREAMING",
+            name: '!plshelp',
+            type: "PLAYING",
             url: 'https://www.youtube.com/watch?v=M75VLQuFPrY'
         }
      });
