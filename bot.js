@@ -81,22 +81,22 @@ bot.on('message', message => {
         message.channel.sendMessage('https://www.youtube.com/watch?v=xADSDapqn9o');
     }
     if(message.content.includes('egg')) {
-        message.channel.sendMessage('https://mihaimaris.com/wp-content/uploads/2017/10/tura_de_noapte-1024x682.jpeg');
+        message.channel.sendMessage('https://www.youtube.com/watch?v=M75VLQuFPrY');
     }
     if(message.content.includes('Egg')) {
-        message.channel.sendMessage('https://mihaimaris.com/wp-content/uploads/2017/10/tura_de_noapte-1024x682.jpeg');
+        message.channel.sendMessage('https://www.youtube.com/watch?v=M75VLQuFPrY');
     }
     if(message.content.includes('EgG')) {
-        message.channel.sendMessage('https://mihaimaris.com/wp-content/uploads/2017/10/tura_de_noapte-1024x682.jpeg');
+        message.channel.sendMessage('https://www.youtube.com/watch?v=M75VLQuFPrY');
     }
     if(message.content.includes('eGg')) {
-        message.channel.sendMessage('https://mihaimaris.com/wp-content/uploads/2017/10/tura_de_noapte-1024x682.jpeg');
+        message.channel.sendMessage('https://www.youtube.com/watch?v=M75VLQuFPrY');
     }
     if(message.content.includes('egG')) {
-        message.channel.sendMessage('https://mihaimaris.com/wp-content/uploads/2017/10/tura_de_noapte-1024x682.jpeg');
+        message.channel.sendMessage('https://www.youtube.com/watch?v=M75VLQuFPrY');
     }
     if(message.content.includes('EGG')) {
-        message.channel.sendMessage('https://mihaimaris.com/wp-content/uploads/2017/10/tura_de_noapte-1024x682.jpeg');
+        message.channel.sendMessage('https://www.youtube.com/watch?v=M75VLQuFPrY');
     }
     if(message.content.includes('sixtynine')) {
         message.channel.sendMessage('https://www.youtube.com/watch?v=xADSDapqn9o');
