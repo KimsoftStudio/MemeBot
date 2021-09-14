@@ -60,10 +60,10 @@ bot.on('message', message => {
         message.channel.sendMessage('Do you see it?');
     }
     if(message.content.includes('6ix9ine')) {
-        message.channel.sendMessage('https://www.youtube.com/watch?v=xADSDapqn9o');
+        message.channel.sendMessage('https://www.youtu.be/xADSDapqn9o');
     }
     if(message.content.includes('6ix 9ine')) {
-        message.channel.sendMessage('https://www.youtube.com/watch?v=xADSDapqn9o');
+        message.channel.sendMessage('https://www.youtu.be/xADSDapqn9o');
     }
     if(message.content.includes('Watch')) {
         message.channel.sendMessage('http://media.oregonlive.com/pacific-northwest-news/photo/redditposterfotojpg-fbbe62a3c24a8394.jpg');
@@ -72,37 +72,37 @@ bot.on('message', message => {
         message.channel.sendMessage('http://media.oregonlive.com/pacific-northwest-news/photo/redditposterfotojpg-fbbe62a3c24a8394.jpg');
     }
     if(message.content.includes('six nine')) {
-        message.channel.sendMessage('https://www.youtube.com/watch?v=xADSDapqn9o');
+        message.channel.sendMessage('https://youtu.be/M75VLQuFPrY');
     }
     if(message.content.includes('sixnine')) {
-        message.channel.sendMessage('https://www.youtube.com/watch?v=xADSDapqn9o');
+        message.channel.sendMessage('https://youtu.be/M75VLQuFPrY');
     }
     if(message.content.includes('sixty nine')) {
-        message.channel.sendMessage('https://www.youtube.com/watch?v=xADSDapqn9o');
+        message.channel.sendMessage('https://youtu.be/M75VLQuFPrY');
     }
     if(message.content.includes('egg')) {
-        message.channel.sendMessage('https://www.youtube.com/watch?v=M75VLQuFPrY');
+        message.channel.sendMessage('https://youtu.be/M75VLQuFPrY');
     }
     if(message.content.includes('Egg')) {
-        message.channel.sendMessage('https://www.youtube.com/watch?v=M75VLQuFPrY');
+        message.channel.sendMessage('https://youtu.be/M75VLQuFPrY');
     }
     if(message.content.includes('EgG')) {
-        message.channel.sendMessage('https://www.youtube.com/watch?v=M75VLQuFPrY');
+        message.channel.sendMessage('https://youtu.be/M75VLQuFPrY');
     }
     if(message.content.includes('eGg')) {
-        message.channel.sendMessage('https://www.youtube.com/watch?v=M75VLQuFPrY');
+        message.channel.sendMessage('https://youtu.be/M75VLQuFPrY');
     }
     if(message.content.includes('egG')) {
-        message.channel.sendMessage('https://www.youtube.com/watch?v=M75VLQuFPrY');
+        message.channel.sendMessage('https://youtu.be/M75VLQuFPrY');
     }
     if(message.content.includes('EGG')) {
-        message.channel.sendMessage('https://www.youtube.com/watch?v=M75VLQuFPrY');
+        message.channel.sendMessage('https://youtu.be/M75VLQuFPrY');
     }
     if(message.content.includes('sixtynine')) {
-        message.channel.sendMessage('https://www.youtube.com/watch?v=xADSDapqn9o');
+        message.channel.sendMessage('https://youtu.be/xADSDapqn9o');
     }
     if(message.content.includes('sixty-nine')) {
-        message.channel.sendMessage('https://www.youtube.com/watch?v=xADSDapqn9o');
+        message.channel.sendMessage('https://youtu.be/xADSDapqn9o');
     }
     if(message.content.includes("you're dead")) {
         message.channel.sendMessage('lost.... cold....');
