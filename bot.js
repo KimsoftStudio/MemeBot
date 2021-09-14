@@ -66,13 +66,13 @@ bot.on('message', message => {
         message.channel.sendMessage('https://www.youtu.be/xADSDapqn9o');
     }
     if(message.content.includes('Watch')) {
-        message.channel.sendMessage('http://media.oregonlive.com/pacific-northwest-news/photo/redditposterfotojpg-fbbe62a3c24a8394.jpg');
+        message.channel.sendMessage('https://raw.githubusercontent.com/KimsoftStudio/MemeBot/master/happyvalley.png');
     }
     if(message.content.includes('watch')) {
-        message.channel.sendMessage('http://media.oregonlive.com/pacific-northwest-news/photo/redditposterfotojpg-fbbe62a3c24a8394.jpg');
+        message.channel.sendMessage('https://raw.githubusercontent.com/KimsoftStudio/MemeBot/master/happyvalley.png');
     }
     if(message.content.includes('youtu.be')) {
-        message.channel.sendMessage('http://media.oregonlive.com/pacific-northwest-news/photo/redditposterfotojpg-fbbe62a3c24a8394.jpg');
+        message.channel.sendMessage('https://raw.githubusercontent.com/KimsoftStudio/MemeBot/master/happyvalley.png');
     }
     if(message.content.includes('six nine')) {
         message.channel.sendMessage('https://youtu.be/M75VLQuFPrY');
