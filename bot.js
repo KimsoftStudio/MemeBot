@@ -135,10 +135,10 @@ bot.on('message', message => {
         message.channel.sendMessage('!', {files: ["https://raw.githubusercontent.com/KimsoftStudio/MemeBot/master/discordIcon.png"]});
     }
     if(message.content.includes("nani")) {
-        message.channel.sendMessage('http://media.oregonlive.com/pacific-northwest-news/photo/redditposterfotojpg-fbbe62a3c24a8394.jpg');
+        message.channel.sendMessage('https://unknown-developer.itch.io/dont-play-this-game');
     }
     if(message.content.includes("Nani")) {
-        message.channel.sendMessage('http://media.oregonlive.com/pacific-northwest-news/photo/redditposterfotojpg-fbbe62a3c24a8394.jpg');
+        message.channel.sendMessage('https://unknown-developer.itch.io/dont-play-this-game');
     }
     if(message.content.includes("snake")) {
         message.channel.sendMessage('https://www.visiteroda.com/');
