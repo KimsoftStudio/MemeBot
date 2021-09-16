@@ -15,25 +15,25 @@ bot.on('ready', () =>{
 
 bot.on('message', message => {
     if(message.content.includes('69')) {
-        message.channel.sendMessage('dnlEdnB3cFJQTTQ=');
+        message.channel.sendMessage('dj12eUR2cHdwUlBNNA==');
     }
     if(message.content.includes('uwu')) {
-        message.channel.sendMessage('qWXnt2Z2D1E');
+        message.channel.sendMessage('v=qWXnt2Z2D1E');
     }
     if(message.content.includes('owo')) {
-        message.channel.sendMessage('qWXnt2Z2D1E');
+        message.channel.sendMessage('v=qWXnt2Z2D1E');
     }
     if(message.content.includes('UwU')) {
-        message.channel.sendMessage('qWXnt2Z2D1E');
+        message.channel.sendMessage('v=qWXnt2Z2D1E');
     }
     if(message.content.includes('OwO')) {
-        message.channel.sendMessage('qWXnt2Z2D1E');
+        message.channel.sendMessage('v=qWXnt2Z2D1E');
     }
     if(message.content.includes('UWU')) {
-        message.channel.sendMessage('qWXnt2Z2D1E');
+        message.channel.sendMessage('v=qWXnt2Z2D1E');
     }
     if(message.content.includes('OWO')) {
-        message.channel.sendMessage('qWXnt2Z2D1E');
+        message.channel.sendMessage('v=qWXnt2Z2D1E');
     }
     if(message.content.includes('kinky')) {
         message.channel.sendMessage('The clock is ticking');
@@ -60,10 +60,10 @@ bot.on('message', message => {
         message.channel.sendMessage('Do you see it?');
     }
     if(message.content.includes('6ix9ine')) {
-        message.channel.sendMessage('https://www.youtu.be/xADSDapqn9o');
+        message.channel.sendMessage('v=xADSDapqn9o');
     }
     if(message.content.includes('6ix 9ine')) {
-        message.channel.sendMessage('https://www.youtu.be/xADSDapqn9o');
+        message.channel.sendMessage('v=xADSDapqn9o');
     }
     if(message.content.includes('Watch')) {
         message.channel.sendMessage('https://raw.githubusercontent.com/KimsoftStudio/MemeBot/master/happyvalley.png');
@@ -75,37 +75,37 @@ bot.on('message', message => {
         message.channel.sendMessage('https://raw.githubusercontent.com/KimsoftStudio/MemeBot/master/happyvalley.png');
     }
     if(message.content.includes('six nine')) {
-        message.channel.sendMessage('https://youtu.be/M75VLQuFPrY');
+        message.channel.sendMessage('v=M75VLQuFPrY');
     }
     if(message.content.includes('sixnine')) {
-        message.channel.sendMessage('https://youtu.be/M75VLQuFPrY');
+        message.channel.sendMessage('v=M75VLQuFPrY');
     }
     if(message.content.includes('sixty nine')) {
-        message.channel.sendMessage('https://youtu.be/M75VLQuFPrY');
+        message.channel.sendMessage('v=M75VLQuFPrY');
     }
     if(message.content.includes('egg')) {
-        message.channel.sendMessage('https://youtu.be/M75VLQuFPrY');
+        message.channel.sendMessage('v=M75VLQuFPrY');
     }
     if(message.content.includes('Egg')) {
-        message.channel.sendMessage('https://youtu.be/M75VLQuFPrY');
+        message.channel.sendMessage('v=M75VLQuFPrY');
     }
     if(message.content.includes('EgG')) {
-        message.channel.sendMessage('https://youtu.be/M75VLQuFPrY');
+        message.channel.sendMessage('v=M75VLQuFPrY');
     }
     if(message.content.includes('eGg')) {
-        message.channel.sendMessage('https://youtu.be/M75VLQuFPrY');
+        message.channel.sendMessage('v=M75VLQuFPrY');
     }
     if(message.content.includes('egG')) {
-        message.channel.sendMessage('https://youtu.be/M75VLQuFPrY');
+        message.channel.sendMessage('v=M75VLQuFPrY');
     }
     if(message.content.includes('EGG')) {
-        message.channel.sendMessage('https://youtu.be/M75VLQuFPrY');
+        message.channel.sendMessage('v=M75VLQuFPrY');
     }
     if(message.content.includes('sixtynine')) {
-        message.channel.sendMessage('https://youtu.be/xADSDapqn9o');
+        message.channel.sendMessage('v=xADSDapqn9o');
     }
     if(message.content.includes('sixty-nine')) {
-        message.channel.sendMessage('https://youtu.be/xADSDapqn9o');
+        message.channel.sendMessage('v=xADSDapqn9o');
     }
     if(message.content.includes("you're dead")) {
         message.channel.sendMessage('lost.... cold....');
@@ -141,62 +141,62 @@ bot.on('message', message => {
         message.channel.sendMessage('https://unknown-developer.itch.io/dont-play-this-game');
     }
     if(message.content.includes("snake")) {
-        message.channel.sendMessage('https://www.visiteroda.com/');
+        message.channel.sendMessage('v=Wmhfn3mgWUI');
     }
     if(message.content.includes("flacid")) {
-        message.channel.sendMessage('https://www.visiteroda.com/');
+        message.channel.sendMessage('v=YwmqgG5ABH4');
     }
     if(message.content.includes("Snake")) {
-        message.channel.sendMessage('https://www.visiteroda.com/');
+        message.channel.sendMessage('v=Wmhfn3mgWUI');
     }
     if(message.content.includes("Flacid")) {
-        message.channel.sendMessage('https://www.visiteroda.com/');
+        message.channel.sendMessage('v=YwmqgG5ABH4');
     }
     if(message.content.includes("wah")) {
         message.channel.sendMessage('lost.... cold....');
     }
     if(message.content.includes("it's monday")) {
-        message.channel.sendMessage('https://www.visiteroda.com/');
+        message.channel.sendMessage('https://styles.redditmedia.com/t5_24n3x8/styles/communityIcon_8lg3bhsw3ul31.jpg?format=pjpg&s=70bcc06a1e4c333d3a2e07df21cd417554d64c8b');
     }
     if(message.content.includes("it's Monday")) {
-        message.channel.sendMessage('https://www.visiteroda.com/');
+        message.channel.sendMessage('https://styles.redditmedia.com/t5_24n3x8/styles/communityIcon_8lg3bhsw3ul31.jpg?format=pjpg&s=70bcc06a1e4c333d3a2e07df21cd417554d64c8b');
     }
     if(message.content.includes("It's monday")) {
-        message.channel.sendMessage('https://www.visiteroda.com/');
+        message.channel.sendMessage('https://styles.redditmedia.com/t5_24n3x8/styles/communityIcon_8lg3bhsw3ul31.jpg?format=pjpg&s=70bcc06a1e4c333d3a2e07df21cd417554d64c8b');
     }
     if(message.content.includes("It's Monday")) {
-        message.channel.sendMessage('https://www.visiteroda.com/');
+        message.channel.sendMessage('https://styles.redditmedia.com/t5_24n3x8/styles/communityIcon_8lg3bhsw3ul31.jpg?format=pjpg&s=70bcc06a1e4c333d3a2e07df21cd417554d64c8b');
     }
     
     if(message.content.includes("its monday")) {
-        message.channel.sendMessage('https://www.visiteroda.com/');
+        message.channel.sendMessage('https://styles.redditmedia.com/t5_24n3x8/styles/communityIcon_8lg3bhsw3ul31.jpg?format=pjpg&s=70bcc06a1e4c333d3a2e07df21cd417554d64c8b');
     }
     if(message.content.includes("its Monday")) {
-        message.channel.sendMessage('https://www.visiteroda.com/');
+        message.channel.sendMessage('https://styles.redditmedia.com/t5_24n3x8/styles/communityIcon_8lg3bhsw3ul31.jpg?format=pjpg&s=70bcc06a1e4c333d3a2e07df21cd417554d64c8b');
     }
     if(message.content.includes("Its monday")) {
-        message.channel.sendMessage('https://www.visiteroda.com/');
+        message.channel.sendMessage('https://styles.redditmedia.com/t5_24n3x8/styles/communityIcon_8lg3bhsw3ul31.jpg?format=pjpg&s=70bcc06a1e4c333d3a2e07df21cd417554d64c8b');
     }
     if(message.content.includes("Its Monday")) {
-        message.channel.sendMessage('https://www.visiteroda.com/');
+        message.channel.sendMessage('https://styles.redditmedia.com/t5_24n3x8/styles/communityIcon_8lg3bhsw3ul31.jpg?format=pjpg&s=70bcc06a1e4c333d3a2e07df21cd417554d64c8b');
     }
     if(message.content.includes("Ballin")) {
-        message.channel.sendMessage('https://www.visiteroda.com/');
+        message.channel.sendMessage('v=irEb9TS9yEk');
     }
     if(message.content.includes("ballin")) {
-        message.channel.sendMessage('https://www.visiteroda.com/');
+        message.channel.sendMessage('v=irEb9TS9yEk');
     }
     if(message.content.includes("All Aboard")) {
-        message.channel.sendMessage('Wmhfn3mgWUI');
+        message.channel.sendMessage('v=Wmhfn3mgWUI');
     }
     if(message.content.includes("all aboard")) {
-        message.channel.sendMessage('Wmhfn3mgWUI');
+        message.channel.sendMessage('v=Wmhfn3mgWUI');
     }
     if(message.content.includes("all Aboard")) {
-        message.channel.sendMessage('Wmhfn3mgWUI');
+        message.channel.sendMessage('v=Wmhfn3mgWUI');
     }
     if(message.content.includes("All aboard")) {
-        message.channel.sendMessage('Wmhfn3mgWUI');
+        message.channel.sendMessage('v=Wmhfn3mgWUI');
     }
     if(message.content.includes("milk")) {
         message.channel.sendMessage('RmluZGluZyB0aGUgdHJ1dGg=');
