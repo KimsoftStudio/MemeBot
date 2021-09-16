@@ -187,16 +187,16 @@ bot.on('message', message => {
         message.channel.sendMessage('https://www.visiteroda.com/');
     }
     if(message.content.includes("All Aboard")) {
-        message.channel.sendMessage('https://youtu.be/YZFrAdtqQk8');
+        message.channel.sendMessage('Wmhfn3mgWUI');
     }
     if(message.content.includes("all aboard")) {
-        message.channel.sendMessage('https://youtu.be/YZFrAdtqQk8');
+        message.channel.sendMessage('Wmhfn3mgWUI');
     }
     if(message.content.includes("all Aboard")) {
-        message.channel.sendMessage('https://youtu.be/YZFrAdtqQk8');
+        message.channel.sendMessage('Wmhfn3mgWUI');
     }
     if(message.content.includes("All aboard")) {
-        message.channel.sendMessage('https://youtu.be/YZFrAdtqQk8');
+        message.channel.sendMessage('Wmhfn3mgWUI');
     }
     if(message.content.includes("milk")) {
         message.channel.sendMessage('RmluZGluZyB0aGUgdHJ1dGg=');
