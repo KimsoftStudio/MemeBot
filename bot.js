@@ -216,11 +216,17 @@ bot.on('message', message => {
     if(message.content.includes("Spook")) {
         message.channel.sendMessage('https://youtu.be/16-aGc2Win0');
     }
-    if (message.content.includes("Noodle")) {
-        message.channel.sendMessage('https://cdn.discordapp.com/attachments/594373333412347915/623775240375500800/just_buy_a_new_one.mp4');
+    if (message.content.includes("Get on")) {
+        message.channel.sendMessage('https://raw.githubusercontent.com/KimsoftStudio/MemeBot/master/CocoTime.gif');
     }
-    if (message.content.includes("Noodle")) {
-        message.channel.sendMessage('https://cdn.discordapp.com/attachments/594373333412347915/623775240375500800/just_buy_a_new_one.mp4');
+    if (message.content.includes("get on")) {
+        message.channel.sendMessage('https://raw.githubusercontent.com/KimsoftStudio/MemeBot/master/CocoTime.gif');
+    }
+    if (message.content.includes("Wait")) {
+        message.channel.sendMessage('https://raw.githubusercontent.com/KimsoftStudio/MemeBot/master/AsaCocoClockPolish.gif');
+    }
+    if (message.content.includes("wait")) {
+        message.channel.sendMessage('https://raw.githubusercontent.com/KimsoftStudio/MemeBot/master/AsaCocoClockPolish.gif');
     }
 });
 
