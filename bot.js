@@ -216,6 +216,12 @@ bot.on('message', message => {
     if(message.content.includes("Spook")) {
         message.channel.sendMessage('https://youtu.be/16-aGc2Win0');
     }
+    if (message.content.includes("Noodle")) {
+        message.channel.sendMessage('https://cdn.discordapp.com/attachments/594373333412347915/623775240375500800/just_buy_a_new_one.mp4');
+    }
+    if (message.content.includes("Noodle")) {
+        message.channel.sendMessage('https://cdn.discordapp.com/attachments/594373333412347915/623775240375500800/just_buy_a_new_one.mp4');
+    }
 });
 
 bot.login(process.env.BOT_TOKEN);
