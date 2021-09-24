@@ -14,6 +14,9 @@ bot.on('ready', () =>{
 });
 
 bot.on('message', message => {
+    if(message.content.includes("!plshelp")) {
+        message.channel.sendMessage({files: ["https://raw.githubusercontent.com/KimsoftStudio/MemeBot/master/botComms.png"]});
+    }
     if(message.content.includes('69')) {
         message.channel.sendMessage('Nice');
     }
@@ -216,17 +219,17 @@ bot.on('message', message => {
     if(message.content.includes("Spook")) {
         message.channel.sendMessage('https://youtu.be/16-aGc2Win0');
     }
-    if (message.content.includes("Get on")) {
-        message.channel.sendMessage('https://raw.githubusercontent.com/KimsoftStudio/MemeBot/master/CocoTime.gif');
+    if(message.content.includes("wait")) {
+        message.channel.sendMessage({files: ["https://raw.githubusercontent.com/KimsoftStudio/MemeBot/master/AsaCocoClockPolish.gif"]});
     }
-    if (message.content.includes("get on")) {
-        message.channel.sendMessage('https://raw.githubusercontent.com/KimsoftStudio/MemeBot/master/CocoTime.gif');
+    if(message.content.includes("Wait")) {
+        message.channel.sendMessage({files: ["https://raw.githubusercontent.com/KimsoftStudio/MemeBot/master/AsaCocoClockPolish.gif"]});
     }
-    if (message.content.includes("Wait")) {
-        message.channel.sendMessage('https://raw.githubusercontent.com/KimsoftStudio/MemeBot/master/AsaCocoClockPolish.gif');
+    if(message.content.includes("Get on")) {
+        message.channel.sendMessage({files: ["https://raw.githubusercontent.com/KimsoftStudio/MemeBot/master/CocoTime.gif"]});
     }
-    if (message.content.includes("wait")) {
-        message.channel.sendMessage('https://raw.githubusercontent.com/KimsoftStudio/MemeBot/master/AsaCocoClockPolish.gif');
+    if(message.content.includes("get on")) {
+        message.channel.sendMessage({files: ["https://raw.githubusercontent.com/KimsoftStudio/MemeBot/master/CocoTime.gif"]});
     }
 });
 
