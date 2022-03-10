@@ -89,15 +89,6 @@ bot.on('message', message => {
     if(message.content.includes('Egg')) {
         message.channel.sendMessage('I see you are cultured as well.');
     }
-    if(message.content.includes('EgG')) {
-        message.channel.sendMessage('I see you are cultured as well.');
-    }
-    if(message.content.includes('eGg')) {
-        message.channel.sendMessage('I see you are cultured as well.');
-    }
-    if(message.content.includes('egG')) {
-        message.channel.sendMessage('I see you are cultured as well.');
-    }
     if(message.content.includes('EGG')) {
         message.channel.sendMessage('I see you are cultured as well.');
     }
@@ -240,11 +231,11 @@ bot.on('message', message => {
     if(message.content.includes("get on")) {
         message.channel.sendMessage({files: ["https://raw.githubusercontent.com/KimsoftStudio/MemeBot/master/CocoTime.gif"]});
     }
-    if(message.content.includes("ooo")) {
-        message.channel.sendMessage('goots', {files: ["https://raw.githubusercontent.com/KimsoftStudio/MemeBot/master/goots.png"]});
+    if(message.content.includes("big")) {
+        message.channel.sendMessage({files: ["https://raw.githubusercontent.com/KimsoftStudio/MemeBot/master/goots.png"]});
     }
-    if(message.content.includes("OOO")) {
-        message.channel.sendMessage('goots', {files: ["https://raw.githubusercontent.com/KimsoftStudio/MemeBot/master/goots.png"]});
+    if(message.content.includes("Big")) {
+        message.channel.sendMessage({files: ["https://raw.githubusercontent.com/KimsoftStudio/MemeBot/master/goots.png"]});
     }
 });
 
