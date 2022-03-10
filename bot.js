@@ -240,10 +240,10 @@ bot.on('message', message => {
     if(message.content.includes("get on")) {
         message.channel.sendMessage({files: ["https://raw.githubusercontent.com/KimsoftStudio/MemeBot/master/CocoTime.gif"]});
     }
-    if(message.content.includes("big")) {
+    if(message.content.includes("ooo")) {
         message.channel.sendMessage('goots', {files: ["https://raw.githubusercontent.com/KimsoftStudio/MemeBot/master/goots.png"]});
     }
-    if(message.content.includes("Big")) {
+    if(message.content.includes("OOO")) {
         message.channel.sendMessage('goots', {files: ["https://raw.githubusercontent.com/KimsoftStudio/MemeBot/master/goots.png"]});
     }
 });
