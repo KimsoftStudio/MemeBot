@@ -232,10 +232,10 @@ bot.on('message', message => {
         message.channel.sendMessage({files: ["https://raw.githubusercontent.com/KimsoftStudio/MemeBot/master/CocoTime.gif"]});
     }
     if(message.content.includes("big")) {
-        message.channel.sendMessage({files: ["https://raw.githubusercontent.com/KimsoftStudio/MemeBot/master/goots.png"]});
+        message.channel.sendMessage('Goots', {files: ["https://raw.githubusercontent.com/KimsoftStudio/MemeBot/master/goots.png"]});
     }
     if(message.content.includes("Big")) {
-        message.channel.sendMessage({files: ["https://raw.githubusercontent.com/KimsoftStudio/MemeBot/master/goots.png"]});
+        message.channel.sendMessage('Goots', {files: ["https://raw.githubusercontent.com/KimsoftStudio/MemeBot/master/goots.png"]});
     }
 });
 
