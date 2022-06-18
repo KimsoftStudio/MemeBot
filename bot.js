@@ -237,6 +237,9 @@ bot.on('message', message => {
     if(message.content.includes("Big")) {
         message.channel.sendMessage('Goots', {files: ["https://raw.githubusercontent.com/KimsoftStudio/MemeBot/master/goots.png"]});
     }
+    if(message.content.includes("type")) {
+        message.channel.sendMessage('C Y L I N D R I C A L', {files: ["https://raw.githubusercontent.com/KimsoftStudio/MemeBot/master/cylindrical_object.mp4"]});
+    }
 });
 
 bot.login(process.env.BOT_TOKEN);
