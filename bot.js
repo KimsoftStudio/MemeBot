@@ -240,6 +240,12 @@ bot.on('message', message => {
     if(message.content.includes("type")) {
         message.channel.sendMessage({files: ["https://raw.githubusercontent.com/KimsoftStudio/MemeBot/master/cylindrical_object.mp4"]});
     }
+    if(message.content.includes("Beans")) {
+        message.channel.sendMessage('https://cdn.discordapp.com/attachments/890489461819969577/1026040865321402448/Ill_never_forget_when_this_guy_showed_up_at_my_door_step_neverforget_funny_relatable_food.mp4');
+    }
+    if(message.content.includes("beans")) {
+        message.channel.sendMessage('https://cdn.discordapp.com/attachments/890489461819969577/1026040865321402448/Ill_never_forget_when_this_guy_showed_up_at_my_door_step_neverforget_funny_relatable_food.mp4');
+    }
 });
 
 bot.login(process.env.BOT_TOKEN);
